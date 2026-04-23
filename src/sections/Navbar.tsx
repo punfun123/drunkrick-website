@@ -49,7 +49,7 @@ export default function Navbar() {
           {/* Logo */}
           <button onClick={() => goTo('#home')} className="flex items-center gap-3 group">
             <img
-              src="/drick-logo.png"
+              src="./drick-logo.png"
               alt="DrunkRick"
               className="w-9 h-9 object-contain rounded-full transition-transform duration-300 group-hover:scale-110"
             />
