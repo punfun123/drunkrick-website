@@ -5,7 +5,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
 gsap.registerPlugin(ScrollTrigger);
 
-const CONTRACT_ADDRESS = 'ZWQ撸管中';
+const CONTRACT_ADDRESS = 'ZWQ撸管中。。';
 
 export default function Hero() {
   const sectionRef = useRef<HTMLDivElement>(null);
