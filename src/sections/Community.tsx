@@ -91,7 +91,7 @@ export default function Community() {
             <div className="relative">
               <div className="absolute -inset-6 bg-white/5 rounded-full blur-3xl" />
               <div className="relative z-10 overflow-hidden rounded-3xl">
-                <img src="/rick-mischief.png" alt="Drunk Rick" className="w-48 sm:w-56 lg:w-64 object-contain" />
+                <img src="./rick-mischief.png" alt="Drunk Rick" className="w-48 sm:w-56 lg:w-64 object-contain" />
               </div>
             </div>
           </div>
