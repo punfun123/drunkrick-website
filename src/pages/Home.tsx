@@ -74,7 +74,7 @@ export default function Home() {
             playsInline
             className="absolute inset-0 w-full h-full object-cover scale-110"
           >
-            <source src="/hero-bg.mp4" type="video/mp4" />
+            <source src="./hero-bg.mp4" type="video/mp4" />
           </video>
           {/* Dark overlay with gradient for readability */}
           <div className="absolute inset-0 bg-gradient-to-b from-[#031221]/70 via-[#031221]/60 to-[#031221]/80" />
