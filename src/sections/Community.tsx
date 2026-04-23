@@ -7,7 +7,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const socials = [
   { name: 'Telegram', handle: '@DrunkRickPortal', icon: Send, url: 'https://t.me/DrunkRickPortal' },
-  { name: 'Twitter / X', handle: '@DrunkRickSOL', icon: Twitter, url: 'https://x.com/DrunkRickSOL' },
+  { name: 'Twitter / X', handle: '@DrunkRickSOL', icon: Twitter, url: 'https://x.com/DrunkRickii' },
   { name: 'Discord', handle: 'DrunkRick Labs', icon: MessageCircle, url: 'https://discord.gg/drunkrick' },
   { name: 'PumpFun', handle: 'Buy $DRICK', icon: Globe, url: 'https://pump.fun' },
 ];
