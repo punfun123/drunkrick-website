@@ -78,7 +78,7 @@ export default function About() {
           <div ref={imageRef} className="relative flex justify-center will-change-transform">
             <div className="absolute -inset-8 bg-white/5 rounded-full blur-3xl" />
             <div className="relative z-10 overflow-hidden rounded-3xl">
-              <img src="/about-character.png" alt="Drunk Rick" className="w-full max-w-xs lg:max-w-sm object-contain" />
+              <img src="./about-character.png" alt="Drunk Rick" className="w-full max-w-xs lg:max-w-sm object-contain" />
             </div>
             <div className="absolute top-4 right-4 liquid-glass rounded-full px-4 py-2 animate-float z-20">
               <span className="text-xs font-medium tracking-wide">100% DEGEN</span>
